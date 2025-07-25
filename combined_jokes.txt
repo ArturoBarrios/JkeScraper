@@ -1,0 +1,748 @@
+--- animal_jokes.txt ---
+[ANIMAL_JOKES #1]
+User: @Dhunganasaroj3
+Reporter: "Excuse me, may I interview you?" 
+Man: "Yes!" 
+Reporter: "Name?" 
+Man: "Abdul Al-Rhazim." 
+Reporter: "Sex?" 
+Man: "Three to five times a week." 
+Reporter: "No no! I mean male or female?" 
+Man: "Yes, male, female... sometimes camel." 
+Reporter: "Holy cow!" 
+Man: "Yes, cow, sheep... animals in general." 
+Reporter: "But isn't that hostile?" 
+Man: "Yes, horse style, dog style, any style." 
+Reporter: "Oh dear!"  
+Man: "No, no deer. Deer run too fast. Hard to catch."
+
+[ANIMAL_JOKES #2]
+User: @ZDW
+What happens to a frog's car when it breaks down?
+It gets toad away.
+
+[ANIMAL_JOKES #3]
+User: @TheLaughFactory
+Q: What did the duck say when he bought lipstick?
+A: "Put it on my bill."
+
+[ANIMAL_JOKES #4]
+User: @Anonymous
+A blonde and a redhead have a ranch. They have just lost their bull. The women need to buy another, but only have $500. The redhead tells the blonde, "I will go to the market and see if I can find one for under that amount.  If I can, I will send you a telegram."  She goes to the market and finds one for $499. Having only one dollar left, she goes to the telegraph office and finds out that it costs one dollar per word. She is stumped on how to tell the blonde to bring the truck and trailer. Finally, she tells the telegraph operator to send the word "comfortable." Skeptical, the operator asks, "How will she know to come with the trailer from just that word?" The redhead replies, "She's a blonde so she reads slow: 'Come for ta bull.'"
+
+[ANIMAL_JOKES #5]
+User: @bandajoey92
+A boy is selling fish on a corner. To get his customers' attention, he is yelling, "Dam fish for sale! Get your dam fish here!" A pastor hears this and asks, "Why are you calling them 'dam fish.'" The boy responds, "Because I caught these fish at the local dam." The pastor buys a couple fish, takes them home to his wife, and asks her to cook the dam fish. The wife responds surprised, "I didn't know it was acceptable for a preacher to speak that way." He explains to her why they are dam fish. Later at the dinner table, he asks his son to pass the dam fish. He responds, "That's the spirit, Dad! Now pass the f*cking potatoes!"
+
+[ANIMAL_JOKES #6]
+User: @sanchie
+Q: Why did the witches' team lose the baseball game? 
+A: Their bats flew away.
+
+
+
+--- latest_jokes.txt ---
+[LATEST_JOKES #1]
+User: @TheLaughFactory
+I told my girlfriend she drew her eyebrows too high. She seemed surprised.
+
+[LATEST_JOKES #2]
+User: @TheLaughFactory
+How do you make a tissue dance? Put a little boogie in it.
+
+[LATEST_JOKES #3]
+User: @TheLaughFactory
+President Lincoln was approached by a woman after a political speech… If you were my husband I would poison your tea. Lincoln replied...if you are my wife I’ll gladly drink it.
+
+[LATEST_JOKES #4]
+User: @TheLaughFactory
+My grandfather has the heart of a lion and a lifetime ban at the zoo.
+
+[LATEST_JOKES #5]
+User: @TheLaughFactory
+Have you heard the joke about yoga. Nevermind its a bit of a stretch.
+
+[LATEST_JOKES #6]
+User: @TheLaughFactory
+Why should you never play poker at the zoo? Too many cheetahs
+
+
+
+--- insult_jokes.txt ---
+[INSULT_JOKES #1]
+User: @Anonymous
+Teacher: "Kids, what does the chicken give you?"
+Student: "Meat!"
+Teacher: "Very good! Now what does the pig give you?"
+Student: "Bacon!"
+Teacher: "Great! And what does the fat cow give you?"
+Student: "Homework!"
+
+[INSULT_JOKES #2]
+User: @funny jokes
+My friend thinks he is smart. He told me an onion is the only food that makes you cry, so I threw a coconut at his face.
+
+[INSULT_JOKES #3]
+User: @Anonymous
+Roses are red. 
+Your blood is too. 
+You look like a monkey 
+And belong in a zoo. 
+Do not worry, 
+I'll be there too. 
+Not in the cage, 
+But laughing at you.
+
+[INSULT_JOKES #4]
+User: @Achtung
+Kid 1: "Hey, I bet you're still a virgin." 
+Kid 2: "Yeah, I was a virgin until last night ." 
+Kid 1: "As if." 
+Kid 2: "Yeah, just ask your sister." 
+Kid 1: "I don't have a sister." 
+Kid 2: "You will in about nine months."
+
+[INSULT_JOKES #5]
+User: @ronald34
+A teacher wanted to teach her students about self-esteem, so she asked anyone who thought they were stupid to stand up. One kid stood up and the teacher was surprised. She didn’t think anyone would stand up so she asked him, “Why did you stand up?” He answered, “I didn’t want to leave you standing up by yourself.”
+
+[INSULT_JOKES #6]
+User: @Ascelyn
+Whenever your ex says, "You'll never find someone like me," the answer to that is, "That's the point."
+
+
+
+--- political_jokes.txt ---
+[POLITICAL_JOKES #1]
+User: @Mark Bolton
+I was walking down the street and I punched of a white guy and then I was arrested for assault. The next day after I got out, I punched a black guy and I was arrested for impersonating a police officer.
+
+[POLITICAL_JOKES #2]
+User: @Alex and Jeremy Minshull
+A worldwide survey was conducted by the UN. The only question asked was: "Would you please give your honest opinion about solutions to the food shortage in the rest of the world?" The survey was a huge failure. In Africa they didn't know what "food" meant. In Eastern Europe they didn't know what "honest" meant. In Western Europe they didn't know what "shortage" meant. In China they didn't know what "opinion" meant. In the Middle East they didn't know what "solution" meant. In South America they didn't know what "please" meant. And in the USA they didn't know what "the rest of the world" meant.
+
+[POLITICAL_JOKES #3]
+User: @TrentHinger21
+If con is the opposite of pro, then is Congress the opposite of progress?
+
+[POLITICAL_JOKES #4]
+User: @TheLaughFactory
+Q: Have you heard about McDonald’s new Obama Value Meal? A: Order anything you like and the guy behind you has to pay for it.
+
+[POLITICAL_JOKES #5]
+User: @Anonymous
+Politicians and diapers have one thing in common: they should both be changed regularly… and for the same reason.
+
+[POLITICAL_JOKES #6]
+User: @Peyton Manning
+We used to have Reagan, Jonny Cash, and Bob Hope. Now we have Obama, no cash, and no hope.
+
+
+
+--- technology_jokes.txt ---
+[TECHNOLOGY_JOKES #1]
+User: @Andrew
+Do not be racist; be like Mario. He's an Italian plumber, who was made by the Japanese, speaks English, looks like a Mexican, jumps like a black man, and grabs coins like a Jew!
+
+[TECHNOLOGY_JOKES #2]
+User: @My mom
+Yo momma is so fat, when she sat on an iPod, she made the iPad!
+
+[TECHNOLOGY_JOKES #3]
+User: @lauren
+Reaching the end of a job interview, the Human Resources Officer asks a young engineer fresh out of the Massachusetts Institute of Technology, "And what starting salary are you looking for?" The engineer replies, "In the region of $125,000 a year, depending on the benefits package." The interviewer inquires, "Well, what would you say to a package of five weeks vacation, 14 paid holidays, full medical and dental, company matching retirement fund to 50% of salary, and a company car leased every two years, say, a red Corvette?" The engineer sits up straight and says, "Wow! Are you kidding?" The interviewer replies, "Yeah, but you started it."
+
+[TECHNOLOGY_JOKES #4]
+User: @dukieman
+Q: Why couldn't the blonde add 10 + 5 on a calculator? 
+A: She couldn't find the "10" button.
+
+[TECHNOLOGY_JOKES #5]
+User: @andres2152
+Your momma is so stupid she put airbags on her computer in case it crashed.
+
+[TECHNOLOGY_JOKES #6]
+User: @Anonymous
+Yo momma so fat when she registered for MySpace there was no space left.
+
+
+
+--- popular_jokes.txt ---
+[POPULAR_JOKES #1]
+User: @bablub048
+Five out of six people agree that Russian Roulette is safe.
+
+[POPULAR_JOKES #2]
+User: @Anonymous
+Yo mamma so skinny she uses a corn chip for a hang glider
+
+[POPULAR_JOKES #3]
+User: @anonymous
+What do you call a guy who’s really loud? Mike.
+
+
+
+--- boycott_these_jokes.txt ---
+[BOYCOTT_THESE_JOKES #1]
+User: @yo mama
+Don't be racist; racism is a crime; and crime is for black people.
+
+[BOYCOTT_THESE_JOKES #2]
+User: @Anonymous
+Q: How does a black girl tell if she is pregnant? A: When she pulls the tampon out all the cotton is picked.
+
+[BOYCOTT_THESE_JOKES #3]
+User: @Anonymous
+How do you starve a black person? Put their food stamp card under their workboots!
+
+[BOYCOTT_THESE_JOKES #4]
+User: @Anonymous
+Why doesn't Mexico have a Olympic team?
+Because everybody that can run, jump, and swim are already in the U.S
+
+[BOYCOTT_THESE_JOKES #5]
+User: @Anonymous
+What happens if a Asian with an erection walks into a wall? 
+He breaks his nose
+
+[BOYCOTT_THESE_JOKES #6]
+User: @deanjchou
+I was at my bank today waiting in a short line. There was just one lady in front of me, an Asian lady, who was trying to exchange yen for dollars. It was obvious she was a little irritated. She asked the teller, "Why it change? Yesterday, I get two hunat dolla of yen. Today I only get hunat eighty? Why it change?"
+
+The teller shrugged his shoulders and said, "Fluctuations." The Asian lady says, "Fluc you white people too!"
+
+
+
+--- office_jokes.txt ---
+[OFFICE_JOKES #1]
+User: @lauren
+Reaching the end of a job interview, the Human Resources Officer asks a young engineer fresh out of the Massachusetts Institute of Technology, "And what starting salary are you looking for?" The engineer replies, "In the region of $125,000 a year, depending on the benefits package." The interviewer inquires, "Well, what would you say to a package of five weeks vacation, 14 paid holidays, full medical and dental, company matching retirement fund to 50% of salary, and a company car leased every two years, say, a red Corvette?" The engineer sits up straight and says, "Wow! Are you kidding?" The interviewer replies, "Yeah, but you started it."
+
+[OFFICE_JOKES #2]
+User: @Brock
+Q: Why did the can crusher quit his job? 
+A: Because it was soda pressing.
+
+[OFFICE_JOKES #3]
+User: @I_H8_2_love_U_4_ever
+How is Christmas like your job? You do all the work and the fat guy in the suit gets all the credit.
+
+[OFFICE_JOKES #4]
+User: @faranak67
+An organization is like a tree full of monkeys, all on different limbs at different levels. The monkeys on top look down and see a tree full of smiling faces. The monkeys on the bottom look up and see nothing but assholes.
+
+[OFFICE_JOKES #5]
+User: @texasvenom101
+A lawyer runs a stop sign and gets pulled over by a sheriff. He thinks he's smarter being a big shot lawyer from New York and has a better education than an sheriff from West Virginia. The sheriff asks for license and registration. The lawyer asks, "What for?" The sheriff responds, "You didn't come to a complete stop at the stop sign." The lawyer says, "I slowed down and no one was coming." "You still didn't come to a complete stop. License and registration please," say the sheriff impatiently. The lawyer says, "If you can show me the legal difference between slow down and stop, I'll give you my license and registration and you can give me the ticket. If not, you let me go and don't give me the ticket." The sheriff says, "That sounds fair, please exit your vehicle." The lawyer steps out and the sheriff takes out his nightstick and starts beating the lawyer with it. The sheriff says, "Do you want me to stop or just slow down?"
+
+[OFFICE_JOKES #6]
+User: @enilda78
+Two factory workers are talking. The woman says, "I can make the boss give me the day off." The man replies, "And how would you do that?" The woman says, "Just wait and see." She then hangs upside down from the ceiling. The boss comes in and says, "What are you doing?" The woman replies, "I'm a light bulb." The boss then says, "You've been working so much that you've gone crazy. I think you need to take the day off." The man starts to follow her and the boss says, "Where are you going?" The man says, "I'm going home, too. I can't work in the dark."
+
+
+
+--- blonde_jokes.txt ---
+[BLONDE_JOKES #1]
+User: @Donovan
+A blonde, a redhead, and a brunette were all lost in the desert. They found a lamp and rubbed it. A genie popped out and granted them each one wish. The redhead wished to be back home. Poof! She was back home. The brunette wished to be at home with her family. Poof! She was back home with her family. The blonde said, "Awwww, I wish my friends were here."
+
+[BLONDE_JOKES #2]
+User: @Anonymous
+Two blondes fell down a hole. One said, "It's dark in here isn't it?" The other replied, "I don't know; I can't see."
+
+[BLONDE_JOKES #3]
+User: @Anonymous
+Blonde: "What does IDK stand for?"
+Brunette: "I don’t know."
+Blonde: "OMG, nobody does!"
+
+[BLONDE_JOKES #4]
+User: @Donovan
+There was a blonde, a redhead, and a brunette. They were all trapped on an island and the nearest shore was 50 miles away. The redhead swam trying to make it to the other shore she swam 15 miles, drowned, and died. The brunette swam 24 miles, drowned, and died. The blonde swam 25 miles, got tired, and swam back.
+
+[BLONDE_JOKES #5]
+User: @TheLaughFactory
+Q: Why can't a blonde dial 911?
+A: She can't find the eleven.
+
+[BLONDE_JOKES #6]
+User: @Anonymous
+A blonde and a redhead have a ranch. They have just lost their bull. The women need to buy another, but only have $500. The redhead tells the blonde, "I will go to the market and see if I can find one for under that amount.  If I can, I will send you a telegram."  She goes to the market and finds one for $499. Having only one dollar left, she goes to the telegraph office and finds out that it costs one dollar per word. She is stumped on how to tell the blonde to bring the truck and trailer. Finally, she tells the telegraph operator to send the word "comfortable." Skeptical, the operator asks, "How will she know to come with the trailer from just that word?" The redhead replies, "She's a blonde so she reads slow: 'Come for ta bull.'"
+
+
+
+--- yo_momma_jokes.txt ---
+[YO_MOMMA_JOKES #1]
+User: @swaggerboy
+Yo momma is so fat when she got on the scale it said, "I need your weight not your phone number."
+
+[YO_MOMMA_JOKES #2]
+User: @Its More Fun In The Philippines!
+Yo momma is so fat, I took a picture of her last Christmas and it's still printing.
+
+[YO_MOMMA_JOKES #3]
+User: @Anonymous
+Yo momma is so fat that when she went to the beach a whale swam up and sang, "We are family, even though you're fatter than me."
+
+[YO_MOMMA_JOKES #4]
+User: @Anonymous
+Yo mamma is so ugly when she tried to join an ugly contest they said, "Sorry, no professionals."
+
+[YO_MOMMA_JOKES #5]
+User: @Anonymous
+Yo momma's so fat and old when God said, "Let there be light," he asked your mother to move out of the way.
+
+[YO_MOMMA_JOKES #6]
+User: @LaughFactory
+Yo momma's so fat, that when she fell, no one was laughing but the ground was cracking up.
+
+
+
+--- relationship_jokes.txt ---
+[RELATIONSHIP_JOKES #1]
+User: @Anonymous
+A child asked his father, "How were people born?" So his father said, "Adam and Eve made babies, then their babies became adults and made babies, and so on." The child then went to his mother, asked her the same question and she told him, "We were monkeys then we evolved to become like we are now." The child ran back to his father and said, "You lied to me!" His father replied, "No, your mom was talking about her side of the family."
+
+[RELATIONSHIP_JOKES #2]
+User: @tiya
+Wife: "How would you describe me?" 
+Husband: "ABCDEFGHIJK." 
+Wife: "What does that mean?" 
+Husband: "Adorable, beautiful, cute, delightful, elegant, fashionable, gorgeous, and hot." 
+Wife: "Aw, thank you, but what about IJK?" 
+Husband: "I'm just kidding!"
+
+[RELATIONSHIP_JOKES #3]
+User: @Montgomery2004
+Q: Is Google male or female? 
+A: Female, because it doesn't let you finish a sentence before making a suggestion.
+
+[RELATIONSHIP_JOKES #4]
+User: @squatter dude
+Girlfriend: "Am I pretty or ugly?" 
+Boyfriend: "You're both." 
+Girlfriend: "What do you mean?" 
+Boyfriend: "You're pretty ugly."
+
+[RELATIONSHIP_JOKES #5]
+User: @Mariah
+A lady goes to the doctor and complains that her husband is losing interest in sex. The doctor gives her a pill, but warns her that it's still experimental. He tells her to slip it into his mashed potatoes at dinner, so that night, she does just that. About a week later, she’s back at the doctor, where she says, "Doc, the pill worked great! I put it in the potatoes like you said! It wasn't five minutes later that he jumped up, raked all the food and dishes onto the floor, grabbed me, ripped all my clothes off, and ravaged me right there on the table!" The doctor says, "I’m sorry, we didn’t realize the pill was that strong! The foundation will be glad to pay for any damages." "Nah," she says, "that's okay. We're never going back to that restaurant anyway."
+
+[RELATIONSHIP_JOKES #6]
+User: @meriwether12
+Bob was in trouble. He forgot his wedding anniversary. His wife was really angry. She told him "Tomorrow morning, I expect to find a gift in the driveway that goes from 0 to 200 in 6 seconds AND IT BETTER BE THERE!" The next morning he got up early and left for work. When his wife woke up, she looked out the window and sure enough there was a box gift-wrapped in the middle of the driveway. Confused, the wife put on her robe and ran out to the driveway, brought the box back in the house. She opened it and found a brand new bathroom scale. Bob has been missing since Friday.
+
+
+
+--- wordplay_jokes.txt ---
+[WORDPLAY_JOKES #1]
+User: @ZDW
+What happens to a frog's car when it breaks down?
+It gets toad away.
+
+[WORDPLAY_JOKES #2]
+User: @Anonymous
+A blonde and a redhead have a ranch. They have just lost their bull. The women need to buy another, but only have $500. The redhead tells the blonde, "I will go to the market and see if I can find one for under that amount.  If I can, I will send you a telegram."  She goes to the market and finds one for $499. Having only one dollar left, she goes to the telegraph office and finds out that it costs one dollar per word. She is stumped on how to tell the blonde to bring the truck and trailer. Finally, she tells the telegraph operator to send the word "comfortable." Skeptical, the operator asks, "How will she know to come with the trailer from just that word?" The redhead replies, "She's a blonde so she reads slow: 'Come for ta bull.'"
+
+[WORDPLAY_JOKES #3]
+User: @XD XD XD XD
+A teacher asked her students to use the word "beans" in a sentence. "My father grows beans," said one girl. "My mother cooks beans," said a boy. A third student spoke up, "We are all human beans."
+
+[WORDPLAY_JOKES #4]
+User: @bandajoey92
+A boy is selling fish on a corner. To get his customers' attention, he is yelling, "Dam fish for sale! Get your dam fish here!" A pastor hears this and asks, "Why are you calling them 'dam fish.'" The boy responds, "Because I caught these fish at the local dam." The pastor buys a couple fish, takes them home to his wife, and asks her to cook the dam fish. The wife responds surprised, "I didn't know it was acceptable for a preacher to speak that way." He explains to her why they are dam fish. Later at the dinner table, he asks his son to pass the dam fish. He responds, "That's the spirit, Dad! Now pass the f*cking potatoes!"
+
+[WORDPLAY_JOKES #5]
+User: @bobby
+Q: Can a kangaroo jump higher than the Empire State Building? 
+A: Of course. The Empire State Building can't jump.
+
+[WORDPLAY_JOKES #6]
+User: @lovebite
+Q: Why couldn't the leopard play hide and seek? 
+A: Because he was always spotted.
+
+
+
+--- holiday_jokes.txt ---
+[HOLIDAY_JOKES #1]
+User: @sanchie
+Q: Why did the witches' team lose the baseball game? 
+A: Their bats flew away.
+
+[HOLIDAY_JOKES #2]
+User: @TheLaughFactory
+It was Christmas Eve. A woman came home to her husband after a day of busy shopping. Later on that night when she was getting undressed for bed, he noticed a mark on the inside of her leg. "What is that?" he asked. She said, "I visited the tattoo parlor today. On the inside of one leg I had them tattoo 'Merry Christmas,' and on the inside of the other one they tattooed 'Happy New Year.'" Perplexed, he asked, "Why did you do that?" "Well," she replied, "now you can't complain that there's never anything to eat between Christmas and New Years!"
+
+[HOLIDAY_JOKES #3]
+User: @I_H8_2_love_U_4_ever
+How is Christmas like your job? You do all the work and the fat guy in the suit gets all the credit.
+
+[HOLIDAY_JOKES #4]
+User: @brock
+Q: Can February march? 
+A: No, but April may.
+
+[HOLIDAY_JOKES #5]
+User: @Te Nui-a-Rangi
+Yo momma is so short, when she went to meet Santa he said, "Go back to work!"
+
+[HOLIDAY_JOKES #6]
+User: @Brandon Lewis
+Q: What is the difference between Tiger Woods and Santa Claus? 
+A: Santa stops after three hos.
+
+
+
+--- science_jokes.txt ---
+[SCIENCE_JOKES #1]
+User: @mohdreza
+A science teacher tells his class, "Oxygen is a must for breathing and life. It was discovered in 1773." A blonde student responds, "Thank God I was born after 1773! Otherwise I would have died without it."
+
+[SCIENCE_JOKES #2]
+User: @Mark My Words
+Scientists have proven that there are two things in the air that have been known to cause women to get pregnant: their legs.
+
+[SCIENCE_JOKES #3]
+User: @Wenz
+Q: How do astronomers organize a party? 
+A: They planet.
+
+[SCIENCE_JOKES #4]
+User: @Anonymous
+Q: Why can't you trust an atom? 
+A: Because they make up everything.
+
+[SCIENCE_JOKES #5]
+User: @JerryH12
+I just read a book about Helium. It was so good that I can't put it down.
+
+[SCIENCE_JOKES #6]
+User: @the thingy
+Q: Why shouldn't you make fun of a paleontologist? 
+A: Because you will get Jurasskicked.
+
+
+
+--- pop_culture_jokes.txt ---
+[POP_CULTURE_JOKES #1]
+User: @Andrew
+Do not be racist; be like Mario. He's an Italian plumber, who was made by the Japanese, speaks English, looks like a Mexican, jumps like a black man, and grabs coins like a Jew!
+
+[POP_CULTURE_JOKES #2]
+User: @Gabe Neaveill
+Q: Do you know who was the first black guy to admit he is the father? 
+A: Darth Vader.
+
+[POP_CULTURE_JOKES #3]
+User: @SOME DUDE
+Q: Why did Adele cross the road? 
+A: To sing, "Hello from the other side!"
+
+[POP_CULTURE_JOKES #4]
+User: @chinie
+Sherlock Holmes and Dr. Watson went on a camping trip. After a good meal and a bottle of wine, they laid down for the night, and went to sleep. Some hours later, Holmes awoke and nudged his faithful friend. "Watson, look up at the sky and tell me what you see." Watson replied, "I see millions and millions of stars." "What does that tell you?" Watson pondered for a minute. "Astronomically, it tells me that there are millions of galaxies, and potentially billions of planets. Astrologically, I observe that Saturn is in Leo. Horologically, I deduce that the time is approximately a quarter past three. Theologically, I can see that God is all powerful and that we are small and insignificant. Meteorologically, I suspect that we will have a beautiful day tomorrow. What does it tell you?" Holmes was silent for a minute, then spoke. "It tells me that someone has stolen our tent."
+
+[POP_CULTURE_JOKES #5]
+User: @Uncle Sam
+Yo momma so stupid she thought Bruno Mars was a planet.
+
+[POP_CULTURE_JOKES #6]
+User: @Brandon Lewis
+Q: What is the difference between Tiger Woods and Santa Claus? 
+A: Santa stops after three hos.
+
+
+
+--- school_jokes.txt ---
+[SCHOOL_JOKES #1]
+User: @rockabillyray
+A teacher is teaching a class and she sees that Johnny isn't paying attention, so she asks him, "If there are three ducks sitting on a fence, and you shoot one, how many are left?" Johnny says, "None." The teacher asks, "Why?" Johnny says, "Because the shot scared them all off." The teacher says, "No, two, but I like how you're thinking." Johnny asks the teacher, "If you see three women walking out of an ice cream parlor, one is licking her ice cream, one is sucking her ice cream, and one is biting her ice cream, which one is married?" The teacher says, "The one sucking her ice cream." Johnny says, "No, the one with the wedding ring, but I like how you're thinking!"
+
+[SCHOOL_JOKES #2]
+User: @Anonymous
+A black Jewish boy runs home from school one day and asks his father, “Daddy, am I more Jewish or more black?” The dad replies, “Why do you want to know, son?” “Because a kid at school is selling a bike for $50 and I want to know if I should talk him down to $40 or just steal it!”
+
+[SCHOOL_JOKES #3]
+User: @Achtung
+Kid 1: "Hey, I bet you're still a virgin." 
+Kid 2: "Yeah, I was a virgin until last night ." 
+Kid 1: "As if." 
+Kid 2: "Yeah, just ask your sister." 
+Kid 1: "I don't have a sister." 
+Kid 2: "You will in about nine months."
+
+[SCHOOL_JOKES #4]
+User: @Capricorn37
+Teacher: "If I gave you 2 cats and another 2 cats and another 2, how many would you have?"
+Johnny: "Seven."
+Teacher: "No, listen carefully... If I gave you two cats, and another two cats and another two, how many would you have?"
+Johnny: "Seven."
+Teacher: "Let me put it to you differently. If I gave you two apples, and another two apples and another two, how many would you have?"
+Johnny: "Six."
+Teacher: "Good. Now if I gave you two cats, and another two cats and another two, how many would you have?"
+Johnny: "Seven!"
+Teacher: "Johnny, where in the heck do you get seven from?!"
+Johnny: "Because I've already got a freaking cat!"
+
+[SCHOOL_JOKES #5]
+User: @MISSDIONE02
+After picking her son up from school one day, the mother asks him what he did at school. The kid replies, "I had sex with my teacher." She gets so mad that when they get home, she orders him to go straight to his room. When the father returns home that evening, the mother angrily tells him the news of what their son had done. As the father hears the news, a huge grin spreads across his face. He walks to his son's room and asks him what happened at school, the son tells him, "I had sex with my teacher." The father tells the boy that he is so proud of him, and he is going to reward him with the bike he has been asking for. On the way to the store, the dad asks his son if he would like to ride his new bike home. His son responds, "No thanks Dad, my butt still hurts."
+
+[SCHOOL_JOKES #6]
+User: @Rodderiqus11
+Sarah goes to school, and the teacher says, "Today we are going to learn multi-syllable words, class. Does anybody have an example of a multi-syllable word?" Sarah waves her hand, "Me, Miss Rogers, me, me!" Miss Rogers says, "All right, Sarah, what is your multi-syllable word?" Sarah says, "Mas-tur-bate." Miss Rogers smiles and says, "Wow, Sarah, that's a mouthful." Sarah says, "No, Miss Rogers, you're thinking of a blowjob."
+
+
+
+--- sex_jokes.txt ---
+[SEX_JOKES #1]
+User: @Tatauaje13
+A mother is in the kitchen making dinner for her family when her daughter walks in.
+
+“Mother, where do babies come from?”
+
+The mother thinks for a few seconds and says, “Well dear, Mommy and Daddy fall in love and get married. One night they go into their bedroom, they kiss and hug, and have sex.”
+
+The daughter looks puzzled so the mother continues, “That means the daddy puts his penis in the mommy’s vagina. That’s how you get a baby, honey.” The child seems to comprehend.
+
+“Oh, I see, but the other night when I came into your room you had daddy’s penis in your mouth. What do you get when you do that?”
+
+“Jewelry, my dear. Jewelry.”
+
+[SEX_JOKES #2]
+User: @Anonymous
+I asked a Chinese girl for her number. She said, "Sex! Sex! Sex! Free sex tonight!" I said, "Wow!" Then her friend said, "She means 666-3629."
+
+[SEX_JOKES #3]
+User: @astghik
+A family is at the dinner table. The son asks the father, “Dad, how many kinds of boobs are there?” The father, surprised, answers, “Well, son, a woman goes through three phases. In her 20s, a woman’s breasts are like melons, round and firm. In her 30s and 40s, they are like pears, still nice, hanging a bit. After 50, they are like onions.” “Onions?” the son asks. “Yes. You see them and they make you cry.” This infuriated his wife and daughter. The daughter asks, “Mom, how many different kinds of willies are there?” The mother smiles and says, “Well, dear, a man goes through three phases also. In his 20s, his willy is like an oak tree, mighty and hard. In his 30s and 40s, it’s like a birch, flexible but reliable. After his 50s, it’s like a Christmas tree.” “A Christmas tree?” the daughter asks. “Yes, dead from the root up and the balls are just for decoration.”
+
+[SEX_JOKES #4]
+User: @rockabillyray
+A teacher is teaching a class and she sees that Johnny isn't paying attention, so she asks him, "If there are three ducks sitting on a fence, and you shoot one, how many are left?" Johnny says, "None." The teacher asks, "Why?" Johnny says, "Because the shot scared them all off." The teacher says, "No, two, but I like how you're thinking." Johnny asks the teacher, "If you see three women walking out of an ice cream parlor, one is licking her ice cream, one is sucking her ice cream, and one is biting her ice cream, which one is married?" The teacher says, "The one sucking her ice cream." Johnny says, "No, the one with the wedding ring, but I like how you're thinking!"
+
+[SEX_JOKES #5]
+User: @Dhunganasaroj3
+Reporter: "Excuse me, may I interview you?" 
+Man: "Yes!" 
+Reporter: "Name?" 
+Man: "Abdul Al-Rhazim." 
+Reporter: "Sex?" 
+Man: "Three to five times a week." 
+Reporter: "No no! I mean male or female?" 
+Man: "Yes, male, female... sometimes camel." 
+Reporter: "Holy cow!" 
+Man: "Yes, cow, sheep... animals in general." 
+Reporter: "But isn't that hostile?" 
+Man: "Yes, horse style, dog style, any style." 
+Reporter: "Oh dear!"  
+Man: "No, no deer. Deer run too fast. Hard to catch."
+
+[SEX_JOKES #6]
+User: @Anonymous
+Why did I get divorced? Well, last week was my birthday. My wife didn't wish me a happy birthday. My parents forgot and so did my kids. I went to work and even my colleagues didn't wish me a happy birthday. As I entered my office, my secretary said, "Happy birthday, boss!" I felt so special. She asked me out for lunch. After lunch, she invited me to her apartment. We went there and she said, "Do you mind if I go into the bedroom for a minute?" "Okay," I said. She came out 5 minutes later with a birthday cake, my wife, my parents, my kids, my friends, & my colleagues all yelling, "SURPRISE!!!" while I was waiting on the sofa... naked.
+
+
+
+--- clean_jokes.txt ---
+[CLEAN_JOKES #1]
+User: @Anonymous
+Teacher: "Kids, what does the chicken give you?"
+Student: "Meat!"
+Teacher: "Very good! Now what does the pig give you?"
+Student: "Bacon!"
+Teacher: "Great! And what does the fat cow give you?"
+Student: "Homework!"
+
+[CLEAN_JOKES #2]
+User: @Anonymous
+A child asked his father, "How were people born?" So his father said, "Adam and Eve made babies, then their babies became adults and made babies, and so on." The child then went to his mother, asked her the same question and she told him, "We were monkeys then we evolved to become like we are now." The child ran back to his father and said, "You lied to me!" His father replied, "No, your mom was talking about her side of the family."
+
+[CLEAN_JOKES #3]
+User: @funny jokes
+My friend thinks he is smart. He told me an onion is the only food that makes you cry, so I threw a coconut at his face.
+
+[CLEAN_JOKES #4]
+User: @ZDW
+What happens to a frog's car when it breaks down?
+It gets toad away.
+
+[CLEAN_JOKES #5]
+User: @Montgomery2004
+Q: Is Google male or female? 
+A: Female, because it doesn't let you finish a sentence before making a suggestion.
+
+[CLEAN_JOKES #6]
+User: @Achtung
+Kid 1: "Hey, I bet you're still a virgin." 
+Kid 2: "Yeah, I was a virgin until last night ." 
+Kid 1: "As if." 
+Kid 2: "Yeah, just ask your sister." 
+Kid 1: "I don't have a sister." 
+Kid 2: "You will in about nine months."
+
+
+
+--- religious_jokes.txt ---
+[RELIGIOUS_JOKES #1]
+User: @bandajoey92
+A boy is selling fish on a corner. To get his customers' attention, he is yelling, "Dam fish for sale! Get your dam fish here!" A pastor hears this and asks, "Why are you calling them 'dam fish.'" The boy responds, "Because I caught these fish at the local dam." The pastor buys a couple fish, takes them home to his wife, and asks her to cook the dam fish. The wife responds surprised, "I didn't know it was acceptable for a preacher to speak that way." He explains to her why they are dam fish. Later at the dinner table, he asks his son to pass the dam fish. He responds, "That's the spirit, Dad! Now pass the f*cking potatoes!"
+
+[RELIGIOUS_JOKES #2]
+User: @LOVE LAUGH FACTORY
+A bus full of ugly people had a head on collision with a truck. When they died, God granted all of them one wish. The first person said, "I want to be gorgeous." God snapped his fingers and it happened. The second person said the same thing and God did the same thing. This want on and on throughout the group. God noticed the last man in line was laughing hysterically. By the time God got to the last ten people, the last man was laughing and rolling on the ground. When the man's turn came, he laughed and said, "I wish they were all ugly again."
+
+[RELIGIOUS_JOKES #3]
+User: @hector
+Josey wasn't the best pupil at Sunday school. She often fell asleep and one day while she was sleeping, the teacher asked her a question. "Who is the creator of the universe?" Joe was sitting next to Josey and decided to poke her with a pin to wake her up. Josey jumped and yelled, "God almighty!" The teacher congratulated her. A little later the teacher asked her another question, "Tell me who is our lord and savior?" Joe poked Josey again and she yelled out, "Jesus Christ!" The teacher congratulated her again. Later on the teacher asked, "What did Eve say to Adam after their 26th child?" Joe poked Josey again and she shouted, "If you stick that thing in me again, I'll snap it in half and stick it up your ass!"
+
+[RELIGIOUS_JOKES #4]
+User: @Monty & Sam
+A man gets on a bus, and ends up sitting next to a very attractive nun. Enamored with her, he asks if he can have sex with her. Naturally, she says no, and gets off the bus. The man goes to the bus driver and asks him if he knows of a way for him to have sex with the nun. "Well," says the bus driver, "every night at 8 o'clock, she goes to the cemetery to pray. If you dress up as God, I'm sure you could convince her to have sex with you." The man decides to try it, and dresses up in his best God costume. At eight, he sees the nun and appears before her. "Oh, God!" she exclaims. "Take me with you!" The man tells the nun that she must first have sex with him to prove her loyalty. The nun says yes, but tells him she prefers anal sex. Before you know it, they're getting down to it, having nasty, grunty, loud sex. After it's over, the man pulls off his God disguise. "Ha, ha!" he says, "I'm the man from the bus!" "Ha, ha!" says the nun, removing her costume, "I'm the bus driver!"
+
+[RELIGIOUS_JOKES #5]
+User: @rodski
+There was a preacher who fell in the ocean and he couldn't swim. When a boat came by, the captain yelled, "Do you need help, sir?" The preacher calmly said "No, God will save me." A little later, another boat came by and a fisherman asked, "Hey, do you need help?" The preacher replied again, "No God will save me." Eventually the preacher drowned & went to heaven. The preacher asked God, "Why didn't you save me?" God replied, "Fool, I sent you two boats!"
+
+[RELIGIOUS_JOKES #6]
+User: @Columbone
+Q: What do you call a baptized Mexican? 
+A: Bean dip.
+
+
+
+--- joke_of_the_day.txt ---
+
+
+--- sports_jokes.txt ---
+[SPORTS_JOKES #1]
+User: @Anonymous
+Yo mom is so dumb that she thought Dunkin' Donuts was a basketball team.
+
+[SPORTS_JOKES #2]
+User: @Anonymous
+There is an overweight guy who is watching TV. A commercial comes on for a guaranteed weight loss of 10 pounds in a week. So the guy, thinking what the hell, signs up for it. Next morning an incredibly beautiful woman is standing at his door in nothing but a pair of running shoes and a sign about her neck that reads, "If you can catch me, you can have me." As soon as he sees her, she takes off running. He tries to catch her, but is unable. This continues for a week, at the end of which, the man has lost 10 pounds. After this he tries the next weight loss plan, 15 pounds in a week. The next morning an even more beautiful woman is standing at the door, in similar conditions. The same happens with her as the first woman, except he almost catches her. This continues for a week, at the end of which he, as suspected, weighs 15 pounds less. Excited about this success, he decides to do the master program. Before he signs up, he is required to sign a waiver and is warned about the intensity of this plan. Still he signs up. The next morning, waiting at the door, is a hulking 300 pound muscle man with nothing but a pair of running shoes, a raging erection, and a sign around his neck that says, "If I catch you, you're mine!" The man was supposed to lose 25 pounds in the week; he lost 34.
+
+[SPORTS_JOKES #3]
+User: @TheLaughFactory
+Three guys go to a ski lodge, and there aren't enough rooms, so they have to share a bed. In the middle of the night, the guy on the right wakes up and says, "I had this wild, vivid dream of getting a hand job!" The guy on the left wakes up, and unbelievably, he's had the same dream, too. Then the guy in the middle wakes up and says, "That's funny, I dreamed I was skiing!"
+
+[SPORTS_JOKES #4]
+User: @Kid.KT
+A guy and his wife are sitting and watching a boxing match on television. The husband sighs and complains, “This is disappointing. It only lasted for 30 seconds!” “Good,” replied his wife. “Now you know how I always feel.”
+
+[SPORTS_JOKES #5]
+User: @Anonymous
+A man joins a soccer team and his new teammates inform him, "At your first team dinner as the new guy, you will have to give us a talk about sex." The evening arrives and he gives a detailed, humorous account of his sex life. When he got home, his wife asked how the evening went and not wanting to lie, but also not wanting to explain exactly what happened, he said, "Oh, I had to make a talk about yachting," his wife thought this a little peculiar but said nothing more and went to sleep. The next day she bumped into one of his new teammates at the supermarket and asked, "I heard my husband had to make a speech last night. How did it go?" His mate said smiling, 'Oh, it was excellent! Your husband is clearly very experienced!." The wife looked confused and replied to his mate, "Strange, he has only done it twice and the second time he was sick."
+
+[SPORTS_JOKES #6]
+User: @Anonymous
+Q: Why did the golfer wear two pairs of pants? 
+A: In case he got a hole in one.
+
+
+
+--- miscellaneous_jokes.txt ---
+[MISCELLANEOUS_JOKES #1]
+User: @Anonymous
+Teacher: "Kids, what does the chicken give you?"
+Student: "Meat!"
+Teacher: "Very good! Now what does the pig give you?"
+Student: "Bacon!"
+Teacher: "Great! And what does the fat cow give you?"
+Student: "Homework!"
+
+[MISCELLANEOUS_JOKES #2]
+User: @Anonymous
+Why did I get divorced? Well, last week was my birthday. My wife didn't wish me a happy birthday. My parents forgot and so did my kids. I went to work and even my colleagues didn't wish me a happy birthday. As I entered my office, my secretary said, "Happy birthday, boss!" I felt so special. She asked me out for lunch. After lunch, she invited me to her apartment. We went there and she said, "Do you mind if I go into the bedroom for a minute?" "Okay," I said. She came out 5 minutes later with a birthday cake, my wife, my parents, my kids, my friends, & my colleagues all yelling, "SURPRISE!!!" while I was waiting on the sofa... naked.
+
+[MISCELLANEOUS_JOKES #3]
+User: @Achtung
+Kid 1: "Hey, I bet you're still a virgin." 
+Kid 2: "Yeah, I was a virgin until last night ." 
+Kid 1: "As if." 
+Kid 2: "Yeah, just ask your sister." 
+Kid 1: "I don't have a sister." 
+Kid 2: "You will in about nine months."
+
+[MISCELLANEOUS_JOKES #4]
+User: @Capricorn37
+Teacher: "If I gave you 2 cats and another 2 cats and another 2, how many would you have?"
+Johnny: "Seven."
+Teacher: "No, listen carefully... If I gave you two cats, and another two cats and another two, how many would you have?"
+Johnny: "Seven."
+Teacher: "Let me put it to you differently. If I gave you two apples, and another two apples and another two, how many would you have?"
+Johnny: "Six."
+Teacher: "Good. Now if I gave you two cats, and another two cats and another two, how many would you have?"
+Johnny: "Seven!"
+Teacher: "Johnny, where in the heck do you get seven from?!"
+Johnny: "Because I've already got a freaking cat!"
+
+[MISCELLANEOUS_JOKES #5]
+User: @Lol
+Q: Why do Chinese people have Chinese babies? 
+A: Because two Wongs don't make a white.
+
+[MISCELLANEOUS_JOKES #6]
+User: @lovebite
+Q: Why couldn't the leopard play hide and seek? 
+A: Because he was always spotted.
+
+
+
+--- food_jokes.txt ---
+[FOOD_JOKES #1]
+User: @astghik
+A family is at the dinner table. The son asks the father, “Dad, how many kinds of boobs are there?” The father, surprised, answers, “Well, son, a woman goes through three phases. In her 20s, a woman’s breasts are like melons, round and firm. In her 30s and 40s, they are like pears, still nice, hanging a bit. After 50, they are like onions.” “Onions?” the son asks. “Yes. You see them and they make you cry.” This infuriated his wife and daughter. The daughter asks, “Mom, how many different kinds of willies are there?” The mother smiles and says, “Well, dear, a man goes through three phases also. In his 20s, his willy is like an oak tree, mighty and hard. In his 30s and 40s, it’s like a birch, flexible but reliable. After his 50s, it’s like a Christmas tree.” “A Christmas tree?” the daughter asks. “Yes, dead from the root up and the balls are just for decoration.”
+
+[FOOD_JOKES #2]
+User: @rockabillyray
+A teacher is teaching a class and she sees that Johnny isn't paying attention, so she asks him, "If there are three ducks sitting on a fence, and you shoot one, how many are left?" Johnny says, "None." The teacher asks, "Why?" Johnny says, "Because the shot scared them all off." The teacher says, "No, two, but I like how you're thinking." Johnny asks the teacher, "If you see three women walking out of an ice cream parlor, one is licking her ice cream, one is sucking her ice cream, and one is biting her ice cream, which one is married?" The teacher says, "The one sucking her ice cream." Johnny says, "No, the one with the wedding ring, but I like how you're thinking!"
+
+[FOOD_JOKES #3]
+User: @funny jokes
+My friend thinks he is smart. He told me an onion is the only food that makes you cry, so I threw a coconut at his face.
+
+[FOOD_JOKES #4]
+User: @XD XD XD XD
+A teacher asked her students to use the word "beans" in a sentence. "My father grows beans," said one girl. "My mother cooks beans," said a boy. A third student spoke up, "We are all human beans."
+
+[FOOD_JOKES #5]
+User: @bandajoey92
+A boy is selling fish on a corner. To get his customers' attention, he is yelling, "Dam fish for sale! Get your dam fish here!" A pastor hears this and asks, "Why are you calling them 'dam fish.'" The boy responds, "Because I caught these fish at the local dam." The pastor buys a couple fish, takes them home to his wife, and asks her to cook the dam fish. The wife responds surprised, "I didn't know it was acceptable for a preacher to speak that way." He explains to her why they are dam fish. Later at the dinner table, he asks his son to pass the dam fish. He responds, "That's the spirit, Dad! Now pass the f*cking potatoes!"
+
+[FOOD_JOKES #6]
+User: @John Ocallaghan
+A boy asks his father, "Dad, are bugs good to eat?" "That's disgusting. Don't talk about things like that over dinner," the dad replies. After dinner the father asks, "Now, son, what did you want to ask me?" "Oh, nothing," the boy says. "There was a bug in your soup, but now it’s gone."
+
+
+
+--- family_jokes.txt ---
+[FAMILY_JOKES #1]
+User: @Anonymous
+A child asked his father, "How were people born?" So his father said, "Adam and Eve made babies, then their babies became adults and made babies, and so on." The child then went to his mother, asked her the same question and she told him, "We were monkeys then we evolved to become like we are now." The child ran back to his father and said, "You lied to me!" His father replied, "No, your mom was talking about her side of the family."
+
+[FAMILY_JOKES #2]
+User: @Anonymous
+Mr. and Mrs. Brown had two sons. One was named Mind Your Own Business & the other was named Trouble. One day the two boys decided to play hide and seek. Trouble hid while Mind Your Own Business counted to one hundred. Mind Your Own Business began looking for his brother behind garbage cans and bushes. Then he started looking in and under cars until a police man approached him and asked, "What are you doing?" "Playing a game," the boy replied. "What is your name?" the officer questioned. "Mind Your Own Business." Furious the policeman inquired, "Are you looking for trouble?!" The boy replied, "Why, yes."
+
+[FAMILY_JOKES #3]
+User: @John Ocallaghan
+A boy asks his father, "Dad, are bugs good to eat?" "That's disgusting. Don't talk about things like that over dinner," the dad replies. After dinner the father asks, "Now, son, what did you want to ask me?" "Oh, nothing," the boy says. "There was a bug in your soup, but now it’s gone."
+
+[FAMILY_JOKES #4]
+User: @avre1
+A woman gets on a bus with her baby. The bus driver says, "That's the ugliest baby that I've ever seen. Ugh!" The woman goes to the rear of the bus and sits down, fuming. She says to a man next to her, "The driver just insulted me!" The man says, "You go right up there and tell him off – go ahead, I'll hold your monkey for you."
+
+[FAMILY_JOKES #5]
+User: @sanchie
+Q: Why did the witches' team lose the baseball game? 
+A: Their bats flew away.
+
+[FAMILY_JOKES #6]
+User: @lovebite
+Q: Why couldn't the leopard play hide and seek? 
+A: Because he was always spotted.
+
+
