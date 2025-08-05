@@ -1,15 +1,32 @@
 from typing import Union
 import os
+from nytimes import NYTimesScraper
 
-from fastapi import FastAPI, Response
+from fastapi import FastAPI, Response, Query
 
 app = FastAPI()
 
 
 
-# @app.post("/scrape-nytimes")
-# async def scrapeNYTimes():
-    
+@app.post("/scrape-nytimes")
+async def scrape_nytimes(max_stories: int = Query(default=5, description="Number of stories to scrape")):
+    """Trigger NYTimes scraping and send articles to API"""
+    try:
+        scraper = NYTimesScraper()
+        stories = scraper.scrape_stories_with_content(max_stories=max_stories)
+        
+        return {
+            "success": True,
+            "message": f"Successfully processed {len(stories)} stories",
+            "stories_count": len(stories),
+            "requested_count": max_stories
+        }
+    except Exception as e:
+        return {
+            "success": False,
+            "error": str(e),
+            "message": "Failed to scrape NYTimes"
+        }
 
 
 @app.get("/")
